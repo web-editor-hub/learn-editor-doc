@@ -25,6 +25,9 @@
 - [prism-code-editor 代码编辑器](https://github.com/FIameCaster/prism-code-editor)
 - [roosterjs微软开源的编辑器](https://github.com/microsoft/roosterjs)
 
+## Canvas
+- [penpot figma画画](https://github.com/penpot/penpot?tab=readme-ov-file)
+
 ## ProseMirror相关的产品
 - [prosemirror-render-node-as-react-component](https://gearheart.io/articles/prosemirror-render-node-as-react-component/)
 - [prosemirror-cookbook](https://github.com/PierBover/prosemirror-cookbook)
